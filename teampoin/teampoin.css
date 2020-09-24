@@ -12,6 +12,7 @@ button {
     text-transform: uppercase;
     padding: 16px 32px;
     background-color: transparent;
+    font-weight: bold;
     border: 1px solid #F6EE22;
     color: #F6EE22;
     cursor: pointer;
